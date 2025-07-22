@@ -1,0 +1,6 @@
+print("Volume da caixa retangular:")
+print("Comprimento:", comprimento, "cm")
+print("Largura:", largura, "cm")
+print("Altura:", altura, "cm")
+print("Volume total:", volume, "cm³")
+print()
